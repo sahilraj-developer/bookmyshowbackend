@@ -12,8 +12,8 @@ This document describes all the environment variables used in the BookMyShow bac
 ### Database Configuration
 - **MONGO_URI** (Required)
   - MongoDB connection string
-  - Example: `MONGO_URI=mongodb://localhost:27017/bookmyshow`
-  - For MongoDB Atlas: `MONGO_URI=mongodb+srv://username:password@cluster.mongodb.net/bookmyshow`
+  - Example: `MONGO_URI=`
+  - For MongoDB Atlas: `MONGO_URI=`
 
 - **NODE_ENV** (Default: development)
   - Environment mode (development, production)
